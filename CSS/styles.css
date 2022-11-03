@@ -1,0 +1,6 @@
+* {
+    box-sizing:border-box;
+}
+.bienvenida{
+   -webkit-mask-image: repeating-linear-gradient(white, transparent)
+}
